@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/incarceration-map/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/incarceration-map/static/js/main.2099bd75.chunk.js",
+    "main.js.map": "/incarceration-map/static/js/main.2099bd75.chunk.js.map",
+    "runtime-main.js": "/incarceration-map/static/js/runtime-main.9aaa1c3b.js",
+    "runtime-main.js.map": "/incarceration-map/static/js/runtime-main.9aaa1c3b.js.map",
+    "static/js/2.1c2accad.chunk.js": "/incarceration-map/static/js/2.1c2accad.chunk.js",
+    "static/js/2.1c2accad.chunk.js.map": "/incarceration-map/static/js/2.1c2accad.chunk.js.map",
+    "static/js/3.93388d02.chunk.js": "/incarceration-map/static/js/3.93388d02.chunk.js",
+    "static/js/3.93388d02.chunk.js.map": "/incarceration-map/static/js/3.93388d02.chunk.js.map",
+    "index.html": "/incarceration-map/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/incarceration-map/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1c2accad.chunk.js.LICENSE.txt": "/incarceration-map/static/js/2.1c2accad.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/incarceration-map/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aaa1c3b.js",
+    "static/js/2.1c2accad.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2099bd75.chunk.js"
+  ]
+}
